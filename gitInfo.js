@@ -10,7 +10,7 @@
 */
 
 //CODE HERE
-
+let gitDefinition = "Git is a version control system for tracking progress of code"
 //////////////////PROBLEM 2////////////////////
 /*
     Create a variable called 'gitHubDefinition'.  
@@ -18,7 +18,7 @@
 */
 
 //CODE HERE
-
+let gitHubDefinition = "GitHub is a web based repository of code that you can track during progress"
 //////////////////PROBLEM 3////////////////////
 /*
     Create a variable called 'gitInitDefinition'.  
@@ -26,7 +26,7 @@
 */
 
 //CODE HERE
-
+let gitInitDefinition = "Innitialize your current directory as the main branch of your repository"
 //////////////////PROBLEM 4////////////////////
 /*
     Create a variable called 'gitCloneDefinition'.  
@@ -34,7 +34,7 @@
 */
 
 //CODE HERE
-
+let gitCloneDefinition = "Creates a local clone of a repository"
 //////////////////PROBLEM 5////////////////////
 /*
     Create a variable called 'gitStatusDefinition'.  
@@ -42,7 +42,7 @@
 */
 
 //CODE HERE
-
+let gitStatusDefinition = "Displays the state of the working directory"
 //////////////////PROBLEM 6////////////////////
 /*
     Create a variable called 'gitAddDefinition'.  
@@ -53,7 +53,8 @@
 */
 
 //CODE HERE
-
+let gitAddDefinition = "Adds the files in your current directory to be tracked"
+let gitAddCode = "git add ."
 //////////////////PROBLEM 7////////////////////
 /*
     Create a variable called 'gitCommitDefinition'.  
@@ -64,8 +65,8 @@
 */
 
 //CODE HERE
-
-
+let gitCommitDefinition = "Creates a snapshot of your current files being tracked"
+let gitCommitCode = "git commit -m'initial commit'"
 //////////////////PROBLEM 8////////////////////
 /*
     Create a variable called 'gitPushDefinition'.  
@@ -73,3 +74,4 @@
 */
 
 //CODE HERE
+let gitPushDefinition = "Pushes your current tracked files to the GitHub repository linked to the directory"
